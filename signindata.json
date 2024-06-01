@@ -1,0 +1,53 @@
+{
+    "user": {
+        "uid": "qSPSkzoSvFfMoxg3hE1TSAa9D593",
+        "email": "suriya.r1711@gmail.com",
+        "emailVerified": true,
+        "displayName": "skydiver suriya",
+        "isAnonymous": false,
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKnPgxGTf1zIahF8aLmmt3T_FEMu7iZIsog_VsIb1rgpV9LPefv=s96-c",
+        "providerData": [
+            {
+                "providerId": "google.com",
+                "uid": "117285528466095799000",
+                "displayName": "skydiver suriya",
+                "email": "suriya.r1711@gmail.com",
+                "phoneNumber": null,
+                "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKnPgxGTf1zIahF8aLmmt3T_FEMu7iZIsog_VsIb1rgpV9LPefv=s96-c"
+            }
+        ],
+        "stsTokenManager": {
+            "refreshToken": "AMf-vBx7CHtCwRTY3qB8-wz3Q1l4tyhi7YL0cFqYUBxj2WdgWw640zY7wKo1FkZZ-qdbptHA5dOuvZ68WVsMDPExORsIlVVtzF1V9grztDTaoitewz5d1sAoMnkxvjcPKI-0EVOfDnB_E1j1D6x9oXicsefeLAK-9-XUYf4__-2nXxyEw64cCmEK0RdFeISsPEERFNtHGBJZabpidwlDRNzgl7IZjmaaVFQX_tBfIZbh2odpvmQz_CalbuwekPmKws-ArnBiGO2vVTQtbx0mPvWDZzL1tw7A0dQ6QzrPrkudxNZDK82Xj1FsPAvgSFN2rOfDTJrPB6Rrmu5nr_BF22mZ-wQ1rxjNXGelIpBqzmvRpxu0miFx2Dpg78lS_YIA4_XDbx9JxasUiHPx_qaL-PdJWwdpV9rt5qZ9Spk3s__ZoEfa8zMG5tg8ok6zNXl-E27NJUlrDtHj9dXRYMiaEu0HDJY_3_6gWA",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNjOTNjMWEyNGNhZjgyN2I4ZGRlOWY4MmQyMzE1MzY1MDg4YWU2MTIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoic2t5ZGl2ZXIgc3VyaXlhIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0tuUGd4R1RmMXpJYWhGOGFMbW10M1RfRkVNdTdpWklzb2dfVnNJYjFyZ3BWOUxQZWZ2PXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3dpemFyZC1yZXN1bWUtYnVpbGRlciIsImF1ZCI6IndpemFyZC1yZXN1bWUtYnVpbGRlciIsImF1dGhfdGltZSI6MTcxNjI5NDQ0MSwidXNlcl9pZCI6InFTUFNrem9TdkZmTW94ZzNoRTFUU0FhOUQ1OTMiLCJzdWIiOiJxU1BTa3pvU3ZGZk1veGczaEUxVFNBYTlENTkzIiwiaWF0IjoxNzE2Mjk0NDQxLCJleHAiOjE3MTYyOTgwNDEsImVtYWlsIjoic3VyaXlhLnIxNzExQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7Imdvb2dsZS5jb20iOlsiMTE3Mjg1NTI4NDY2MDk1Nzk5MDAwIl0sImVtYWlsIjpbInN1cml5YS5yMTcxMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.P5Uiyj9pO07fR144cxoA167K6vEAkX1N-JIZrnudDY3QVGr-GhLSXiIH9_Tt8yfK1c4XpHELgOXLdKEItE7pIJ7yTc56QeILwGQ6JkQumlixU2tNlg-rD-po-kg9eX6HgQvjYP-kJ5nqlvQGNyiBa-R828GHzIYcJ7PmtKubht8623zrv1E7jO38wH6VRvkXHeoRYdCU5QGOBqI77FIQZoDvsbWZ3WUyC7L1o2aXwUjOIK8HWbONWC5BtWxqddeewz71vDkUGDvMZeyGfcMTvVeP7_pI2rp2MQ44MlA3JNFit-mxF3oftmkH1CaqA7qBL0TYfzwxGugJQWlk5AVHzw",
+            "expirationTime": 1716298040904
+        },
+        "createdAt": "1716294441467",
+        "lastLoginAt": "1716294441468",
+        "apiKey": "AIzaSyDSob8HdpAv0UT9AwLu8P7Q4Czwan2_t6Q",
+        "appName": "[DEFAULT]"
+    },
+    "providerId": "google.com",
+    "_tokenResponse": {
+        "federatedId": "https://accounts.google.com/117285528466095799000",
+        "providerId": "google.com",
+        "email": "suriya.r1711@gmail.com",
+        "emailVerified": true,
+        "firstName": "skydiver",
+        "fullName": "skydiver suriya",
+        "lastName": "suriya",
+        "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKnPgxGTf1zIahF8aLmmt3T_FEMu7iZIsog_VsIb1rgpV9LPefv=s96-c",
+        "localId": "qSPSkzoSvFfMoxg3hE1TSAa9D593",
+        "displayName": "skydiver suriya",
+        "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNjOTNjMWEyNGNhZjgyN2I4ZGRlOWY4MmQyMzE1MzY1MDg4YWU2MTIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoic2t5ZGl2ZXIgc3VyaXlhIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0tuUGd4R1RmMXpJYWhGOGFMbW10M1RfRkVNdTdpWklzb2dfVnNJYjFyZ3BWOUxQZWZ2PXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3dpemFyZC1yZXN1bWUtYnVpbGRlciIsImF1ZCI6IndpemFyZC1yZXN1bWUtYnVpbGRlciIsImF1dGhfdGltZSI6MTcxNjI5NDQ0MSwidXNlcl9pZCI6InFTUFNrem9TdkZmTW94ZzNoRTFUU0FhOUQ1OTMiLCJzdWIiOiJxU1BTa3pvU3ZGZk1veGczaEUxVFNBYTlENTkzIiwiaWF0IjoxNzE2Mjk0NDQxLCJleHAiOjE3MTYyOTgwNDEsImVtYWlsIjoic3VyaXlhLnIxNzExQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7Imdvb2dsZS5jb20iOlsiMTE3Mjg1NTI4NDY2MDk1Nzk5MDAwIl0sImVtYWlsIjpbInN1cml5YS5yMTcxMUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.P5Uiyj9pO07fR144cxoA167K6vEAkX1N-JIZrnudDY3QVGr-GhLSXiIH9_Tt8yfK1c4XpHELgOXLdKEItE7pIJ7yTc56QeILwGQ6JkQumlixU2tNlg-rD-po-kg9eX6HgQvjYP-kJ5nqlvQGNyiBa-R828GHzIYcJ7PmtKubht8623zrv1E7jO38wH6VRvkXHeoRYdCU5QGOBqI77FIQZoDvsbWZ3WUyC7L1o2aXwUjOIK8HWbONWC5BtWxqddeewz71vDkUGDvMZeyGfcMTvVeP7_pI2rp2MQ44MlA3JNFit-mxF3oftmkH1CaqA7qBL0TYfzwxGugJQWlk5AVHzw",
+        "context": "",
+        "oauthAccessToken": "ya29.a0AXooCgsahKvSQfbIebR_uNhO4gvVTnnkmrqHuGI07nSOOuxlOncZ8Vy4ES6XmQ40hApx6r_Wj7FvaUGrL6g2zpMa79bvxtJaxvXjc3ZJjeGmTCzVziWY9dGEHxztzAoxquLSkHWs77K_tzpOuTLUbHMZZOATUAS3UFhTaCgYKAQ4SARESFQHGX2MiwVv_ISO15-4tJr7YUzZfyw0171",
+        "oauthExpireIn": 3599,
+        "refreshToken": "AMf-vBx7CHtCwRTY3qB8-wz3Q1l4tyhi7YL0cFqYUBxj2WdgWw640zY7wKo1FkZZ-qdbptHA5dOuvZ68WVsMDPExORsIlVVtzF1V9grztDTaoitewz5d1sAoMnkxvjcPKI-0EVOfDnB_E1j1D6x9oXicsefeLAK-9-XUYf4__-2nXxyEw64cCmEK0RdFeISsPEERFNtHGBJZabpidwlDRNzgl7IZjmaaVFQX_tBfIZbh2odpvmQz_CalbuwekPmKws-ArnBiGO2vVTQtbx0mPvWDZzL1tw7A0dQ6QzrPrkudxNZDK82Xj1FsPAvgSFN2rOfDTJrPB6Rrmu5nr_BF22mZ-wQ1rxjNXGelIpBqzmvRpxu0miFx2Dpg78lS_YIA4_XDbx9JxasUiHPx_qaL-PdJWwdpV9rt5qZ9Spk3s__ZoEfa8zMG5tg8ok6zNXl-E27NJUlrDtHj9dXRYMiaEu0HDJY_3_6gWA",
+        "expiresIn": "3600",
+        "oauthIdToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjMyM2IyMTRhZTY5NzVhMGYwMzRlYTc3MzU0ZGMwYzI1ZDAzNjQyZGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMTA5OTU4NTQ2NTItMWplaWdvZmxxajRzNmdqZmVkcjAyNHRjaDkwbjI0NGsuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIxMDk5NTg1NDY1Mi0xamVpZ29mbHFqNHM2Z2pmZWRyMDI0dGNoOTBuMjQ0ay5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNzI4NTUyODQ2NjA5NTc5OTAwMCIsImVtYWlsIjoic3VyaXlhLnIxNzExQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiZHZzdXdYQXpReU9PdzVzNEVCQU5WQSIsImlhdCI6MTcxNjI5NDQ0MSwiZXhwIjoxNzE2Mjk4MDQxfQ.PM97ujKG5exUBhnyqq6RA0skQ5qEbCjEloMU6J_Ic31wV4TVsyHmee4QUEwb0lTKIFhrIbV3zaC4QgHO4FXLGXlPR_CwvPDYiQBRy6w1TfR2vgRvI0Er3ofif2llzuvMVSTUado-OsnBgB95pcyyvK1CYI7gHzAaux1ogkA-X-bIZiQdLyZ1d07Ola441fFjNJrzVcRSyni_B1ETweeByk732RFeQnBQQOSkvFmab4mOh6-TtVXGpAYVlejms5rvkb402ey80QkZpq-oSzXZEWhumpjWQ9Ipy_qkSXkBaLm45m25smCyZTlf0Bvkub4GAiD2eY4QKNj96iVfhLQ5Og",
+        "rawUserInfo": "{\"name\":\"skydiver suriya\",\"granted_scopes\":\"https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid\",\"id\":\"117285528466095799000\",\"verified_email\":true,\"given_name\":\"skydiver\",\"locale\":\"en\",\"family_name\":\"suriya\",\"email\":\"suriya.r1711@gmail.com\",\"picture\":\"https://lh3.googleusercontent.com/a/ACg8ocKnPgxGTf1zIahF8aLmmt3T_FEMu7iZIsog_VsIb1rgpV9LPefv=s96-c\"}",
+        "isNewUser": true,
+        "kind": "identitytoolkit#VerifyAssertionResponse"
+    },
+    "operationType": "signIn"
+}

@@ -1,0 +1,17 @@
+body{
+    /* background-color: black; */
+    color: white;
+
+}
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.test{
+    color: white;
+    font-size: 500;
+}
